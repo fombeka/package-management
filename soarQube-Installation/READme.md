@@ -51,7 +51,7 @@ sudo yum install fontconfig java-17-openjdk -y
 ```sh
 sudo wget https://binaries.sonarsource.com/Distribution/sonarqube/sonarqube-9.9.8.100196.zip
 sudo unzip sonarqube-9.9.8.100196.zip
-sudo mv sonarqube-9.9.8.100196.zip sonarqube
+sudo mv sonarqube-9.9.8.100196 sonarqube
 sudo rm -rf *zip
 ```
 
